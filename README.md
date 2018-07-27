@@ -1,8 +1,11 @@
 # Leet Code
 [Problems](https://leetcode.com/problemset/all/) to solve
 
-* [Two Sum] easy
-* [Add Two Numbers] medium
+## Easy
+* [Two Sum]
 
-[Two Sums]: </Two Sum/>
-[Add Two Numbers] <Add Two Numbers/>
+## Medium
+* [Add Two Numbers]
+
+[Two Sum]:<Two%20Sum/>
+[Add Two Numbers]: <Add%20Two%20Numbers/>
